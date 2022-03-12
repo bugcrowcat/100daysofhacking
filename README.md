@@ -4,7 +4,7 @@
 
 ``` This repro is made so that I/We can track the progress of our #100daysofhacking chalange/learing process. I will try to log all the details along with resources I use while this process so that it might be helpful for anyone how in future try to learn about hacking, this repo will also help me to go back and brush up my own knowledge```
 
-> Note : I will update the content of the readme as I feed like something need to be changed or I get some suggestions form someone.
+> Note : I will update the content of the readme as I feel like something need to be changed or I get some suggestions form someone.
 > This chalange can be found on my twitter handle @bugcrowcat 
 
 
